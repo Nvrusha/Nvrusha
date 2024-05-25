@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **Full-stack**
+- 🌱 I’m currently learning **Full-stack development**
 
 - 💬 Ask me about **Frontend**
 
