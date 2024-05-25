@@ -1,8 +1,21 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw)](https://www.linkedin.com/in/vrushali-nivangune-a256831b0)
 <h1 align="center">Hi 👋, I'm Vrushali Nivangune</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nvrusha&label=Profile%20views&color=0e75b6&style=flat" alt="nvrusha" /> </p>
+
+<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin=10px;">
+
+- 🔭 I’m currently working on **Netflix Clone**
+
+- 🌱 I’m currently learning **Full-stack**
+
+- 💬 Ask me about **Frontend**
+
+- 📫 How to reach me **nivangunevrushali.vn@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vrushali-nivangune-a256831b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vrushali-nivangune-a256831b0" height="30" width="40" /></a>
