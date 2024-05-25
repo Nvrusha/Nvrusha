@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw)](https://www.linkedin.com/in/vrushali-nivangune-a256831b0)
-<h1 align="center">Hi 👋, I'm Vrushali Nivangune</h1>
+<h1 align="center">Hey there! 👋, I'm Vrushali Nivangune</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvrusha&label=Profile%20views&color=0e75b6&style=flat" alt="nvrusha" /> </p>
