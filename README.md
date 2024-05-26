@@ -13,8 +13,6 @@
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **nivangunevrushali.vn@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
