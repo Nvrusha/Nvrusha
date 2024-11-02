@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Performing E2E testing for Opencart app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Selenium**
 
 - 💬 Ask me about **JavaScript, Database & Functional testing**
 
