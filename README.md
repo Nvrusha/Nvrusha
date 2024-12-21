@@ -11,6 +11,8 @@
 - 💬 Ask me about **JavaScript, Database & Functional testing**
 
 - 📫 How to reach me **nivangunevrushali.vn@gmail.com**
+- ⚡ Fun fact: 🎢 I'm a Pharmacy graduate turned into a software tester!  
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
