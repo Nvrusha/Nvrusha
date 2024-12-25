@@ -28,7 +28,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j-TME_dex1aKFg4hd_6CTsxZx_duYzmVkkbNA6Foz6XV-LrMtqSIKHmdcxS3B_h-kG4&usqp=CAU" alt="maven" width="40" height="40"/> 
 </a>
 <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/testng/testng-icon.svg" alt="testng" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original-wordmark.svg" alt="testng" width="40" height="40"/> 
 </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvrusha&show_icons=true&locale=en&layout=compact" alt="nvrusha" /></p>
