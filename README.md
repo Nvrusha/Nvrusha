@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin=10px;">
 
-- 🔭 I’m currently working on **Performing E2E testing for Opencart app**
+- 🔭 I’m currently working on **Performing E2E testing of MakeMyTrip**
 
 - 🌱 I’m currently learning **Java and Selenium**
 
