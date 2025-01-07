@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Performing E2E testing of MakeMyTrip**
 
-- 🌱 I’m currently learning **Java, Selenium and RestAssured**
+- 🌱 I’m currently learning **Java and Selenium**
 
 - 💬 Ask me about **JavaScript, Database & Functional testing**
 
