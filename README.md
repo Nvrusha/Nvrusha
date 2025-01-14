@@ -4,14 +4,11 @@
 
 <img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="margin=10px;">
 
-- 🔭 I’m currently working on **Performing E2E testing of MakeMyTrip**
-
-- 🌱 I’m currently learning **Java and Selenium**
-
-- 💬 Ask me about **JavaScript, Database & Functional testing**
-
-- 📫 How to reach me **nivangunevrushali.vn@gmail.com**
-- ⚡ Fun fact: 🎢 I'm a Pharmacy graduate turned into a software tester!  
+- 🔭 I’m currently working on **End-to-End testing for the travel giant MakeMyTrip – making every trip smoother, one test at a time!**
+- 🌱 On a journey to master **Java and Selenium**
+- 💬  Curious about **avaScript, Databases, or Functional Testing? Let’s geek out together!**
+- 📫 How to reach me **nivangunevrushali.vn@gmail.com – I’d love to hear from you!**
+- ⚡ Fun fact: 🎢 **I’m a Pharmacy graduate turned Software Tester!**  
   
   
 <h3 align="left">Connect with me:</h3>
