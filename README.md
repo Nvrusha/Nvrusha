@@ -8,7 +8,7 @@
   
 - 🌱 On a journey to master **Java and Selenium**
   
-- 💬  Curious about **avaScript, Databases, or Functional Testing? Let’s geek out together!**
+- 💬  Curious about **JavaScript, Databases, or Functional Testing? Let’s geek out together!**
   
 - 📫 How to reach me **nivangunevrushali.vn@gmail.com – I’d love to hear from you!**
   
