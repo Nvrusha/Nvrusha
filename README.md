@@ -22,7 +22,8 @@
   <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j-TME_dex1aKFg4hd_6CTsxZx_duYzmVkkbNA6Foz6XV-LrMtqSIKHmdcxS3B_h-kG4&usqp=CAU" width="40" title="Maven"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="swagger" width="40" height="40"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/main/topics/swagger/swagger.png" alt="swagger" width="40" height="40"/></a>
+
 </p>
 
 ---
