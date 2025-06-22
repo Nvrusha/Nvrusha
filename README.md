@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Vrushali Nivangune</h1>
-<h3 align="center">Making sure your software fails on my machine — not yours 😄</h3>
+<h3 align="center">A software tester — making sure your software fails on my machine so it works perfectly on yours. 😄</h3>
 
 <img align="right" alt="Testing Mode" width="380" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
