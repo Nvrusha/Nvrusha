@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Vrushali Nivangune</h1>
 <h3 align="center">A software tester — making sure your software fails on my machine so it works perfectly on yours. 😄</h3>
-<img align="right" alt="Testing Mode" width="380" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Testing Mode" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔍 Practicing Selenium automation with Java on **MakeMyTrip** — because learning is better with real-world bugs! ✈️ 
 - 🌱 Growing my automation skills: **Learning Selenium deeply** and **planning to conquer API automation** soon  
