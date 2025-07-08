@@ -35,7 +35,7 @@
 
   <!-- Gmail -->
   <a href="mailto:nivangunevrushali.vn@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
