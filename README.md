@@ -2,7 +2,7 @@
 <h3 align="center">A software tester — making sure your software fails on my machine so it works perfectly on yours. 😄</h3>
 <img align="right" alt="Testing Mode" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔍 Practicing Selenium automation with Java on **MakeMyTrip** — because learning is better with real-world bugs! ✈️ 
+- 🔍 Building a Selenium + Java framework on OpenCart with real test cases, dynamic locators, and detailed reports. 🧪📊
 - 🌱 Growing my automation skills: **Learning Selenium deeply** and **planning to conquer API automation** soon  
 - 💬 Ask me about **TestNG, Maven, Postman** (or how to make tea during build time ☕)  
 - 🎓 Pharmacy grad turned passionate QA — yeah, I test bugs now, not blood pressure!  
