@@ -37,7 +37,7 @@
   <!-- GitHub -->
   <a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub" style="border-radius: 50%;" /></a>
    <!-- Swagger (Better link) -->
-  <a href="#"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="40" title="Swagger"/></a>
+  <a href="#"><img src="[https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg(https://upload.wikimedia.org/wikipedia/commons/a/ab/Swaggerlogo.png)" width="40" title="Swagger"/></a>
   <!-- Azure DevOps (Better link) -->
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_DevOps_Logo.svg" width="60" title="Azure DevOps"/></a>
 </p>
