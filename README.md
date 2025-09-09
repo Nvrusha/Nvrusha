@@ -36,10 +36,10 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></a>
   <!-- GitHub -->
   <a href="https://github.com" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub" style="border-radius: 50%;" /></a>
-  <!-- Swagger -->
-  <a href="#"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-4n9lp2zu.png" width="40" title="Swagger"/></a>
-  <!-- Azure DevOps -->
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_DevOps_Logo.svg" width="40" title="Azure DevOps"/></a>
+   <!-- Swagger (Better link) -->
+  <a href="#"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="40" title="Swagger"/></a>
+  <!-- Azure DevOps (Better link) -->
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_DevOps_Logo.svg" width="60" title="Azure DevOps"/></a>
 </p>
 
 ---
