@@ -35,7 +35,9 @@
   <!-- Git -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></a>
   <!-- GitHub -->
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
+  <a href="https://github.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" style="background-color: white; border-radius: 50%;" />
+</a>
 </p>
 
 ---
