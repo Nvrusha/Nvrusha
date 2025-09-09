@@ -14,14 +14,40 @@
 <h3 align="left">🧩 Tech & Tools I Work With</h3>
 
 <p align="left">
+  <!-- Java -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
+  
+  <!-- Postman -->
   <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
+  
+  <!-- Selenium -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" /></a>
+  
+  <!-- TestNG -->
   <a href="#"><img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="40" title="TestNG"/></a>
+  
+  <!-- Maven -->
   <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j-TME_dex1aKFg4hd_6CTsxZx_duYzmVkkbNA6Foz6XV-LrMtqSIKHmdcxS3B_h-kG4&usqp=CAU" width="40" title="Maven"/></a>
+  
+  <!-- HTML5 -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
+  
+  <!-- JavaScript -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
+  
+  <!-- Docker -->
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/></a>
+  
+  <!-- Jenkins -->
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins"/></a>
+  
+  <!-- Git -->
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></a>
+  
+  <!-- GitHub -->
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
 </p>
+
 
 ---
 
