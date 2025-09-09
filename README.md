@@ -13,7 +13,7 @@
 
 <h3 align="left">🧩 Tech & Tools I Work With</h3>
 
-<p align="left">
+<p align="left" style="white-space: nowrap;">
   <!-- Java -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
   
@@ -47,7 +47,6 @@
   <!-- GitHub -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/></a>
 </p>
-
 
 ---
 
