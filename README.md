@@ -35,8 +35,8 @@
   <!-- Git -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/></a>
   <!-- GitHub -->
-  <a href="https://github.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+ <a href="https://github.com" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" title="GitHub" style="border-radius: 50%;" />
 </a>
 </p>
 
